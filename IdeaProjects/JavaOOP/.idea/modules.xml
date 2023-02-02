@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuthorBookComposition/AuthorBookComposition.iml" filepath="$PROJECT_DIR$/AuthorBookComposition/AuthorBookComposition.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaOOP.iml" filepath="$PROJECT_DIR$/.idea/JavaOOP.iml" />
     </modules>
   </component>
